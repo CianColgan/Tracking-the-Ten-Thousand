@@ -1,5 +1,6 @@
 # Project Specific/Third Level Annotations: 
-### These are the guidelines for my project-specific annotations, i.e. not included in the guidelines. These are primarily used for me to effectively sort, differentiate, and categorize data in ArcGIS Pro. They are written in the order they should be annotated in.
+### This project builds upon the annotation schema developed by Palldino et al. (2024, https://doi.org/10.5281/zenodo.11366870), so please refer to that for the primary and secondary tagging logic. This document records the logic for the tertiary tags I use to effectively sort, differentiate, and categorize data in ArcGIS Pro. They are written in the order they should be annotated in.
+
 **Reminder!**
 This is not one specific tag, but annotate every person with an authoritative name (a tag of the person's name) regardless of whether or not there is a Wikipedia link to attach to it. If there is no link, tag it in lowercase; if there is a link, it will be uploaded into the annotation tagsheet with the first letter capitalized. Places with a Wikipedia link will be in the same format, however if there is no link (but there is a gazetteer entry) then ***do not*** tag it (as the name can be fetched from the gazetteer).
 
