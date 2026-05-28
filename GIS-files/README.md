@@ -1,4 +1,4 @@
-** About
+## About
 This folder contains all GIS related files for the geometry, associated metadata, etc. Analysis was done using ArcGIS Pro (v. 3.3.0). Files can be imported and used in other GIS softwares, like QGIS.
 
 Additional data:
