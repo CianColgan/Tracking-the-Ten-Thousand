@@ -3,5 +3,6 @@
 Tracking the Ten Thousand analyzes, explores, and reconstructs the Anabasis of Xenophon, an ancient travelogue, using semantic geo-annotation and GIS modeling.
 
 Here you can find the various plain text files of the text, geo-annotation data from those texts, and the many GIS files used for analysis of the text and reconstruction of the traveled route.
-
-For more documentation on the project or information on me, please see: **https://ciancolgan.com/**
+* For a brief overview, more documentation, and an interactive map of the project, see: https://arcg.is/18rDDf3
+* For the rough prototype of an integrated text-map reader, see: https://ciancolgan.com/ten/thousand.html
+* For more documentation on the project or information on me, please see: https://ciancolgan.com/
