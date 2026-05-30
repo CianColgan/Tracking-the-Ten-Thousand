@@ -13,6 +13,9 @@ Used to identify rivers. Gazetteers create reference points that contain the dat
 
 Used to identify geographic regions. Gazetteers create reference points that contain the data for regions, but when actually mapping, a region is _not_ mapped with _point data_ but as a _polygon_. Therefore, a region tag is necessary to separate these reference points from the rest of the point data, since they need to be manually converted to polygon data. Regions are not labeled with .referenced or .visited, since they need to be manually plotted out regardless, and it should be evident whether or not the journey polyline passes through them.
 
+* **landmark**
+
+Used to identify points associated with other miscellaneous landmarks such as mountains, mountain passes, specific walls/fortifications, etc.
 
 * **visited**
 
